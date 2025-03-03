@@ -17,7 +17,7 @@
 
 @media screen and (max-width: 1200px) {
   #profile, #about, #experience, #projects, #contact{
-    padding-top: 15%;
+    padding-top: 25%;
   }
   #desktop-nav {
     display: none;
