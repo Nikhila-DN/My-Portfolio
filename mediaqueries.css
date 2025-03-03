@@ -55,7 +55,7 @@
 
 @media screen and (max-width: 600px) {
   #profile, #about, #experience, #projects, #contact{
-    padding-top: 35%;
+    padding-top: 40%;
   }
 
   #contact,
